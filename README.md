@@ -180,6 +180,13 @@ PawPath supports multiple user roles:
 
 ---
 
+## 🎨 UI/UX Design
+
+The user interface of **PawPath** was designed in Figma before development.
+
+- **Figma Design:** https://www.figma.com/design/DV2LEJHpL1fnAwurDCTtIV/Pet-Adiotion?node-id=0-1&t=7j7B8JamaiRp8Wet-1
+- **Interactive Prototype:** https://www.figma.com/proto/DV2LEJHpL1fnAwurDCTtIV/Pet-Adiotion?node-id=1-16&starting-point-node-id=1%3A16
+
 ## 🔄 Application Workflow
 
 ```text
