@@ -7,6 +7,14 @@ PawPath is a web-based pet adoption and fostering platform designed to connect p
 PawPath also provides dedicated management systems for shelter managers and administrators, allowing them to manage pets, applications, users, shelters, and platform activities efficiently.
 
 ---
+## Academic Project
+
+This project was developed as part of the **CSE 4165 – Web Programming** course during my **6th Trimester (Session 261)** at **United International University (UIU)**.
+
+**Course Instructor:**  
+Mr. Mahmudul Hasan  
+Lecturer, Department of Computer Science & Engineering  
+United International University
 
 ## 📌 Project Overview
 
